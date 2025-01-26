@@ -50,7 +50,7 @@ transition: right .22s;
 .nav-link:hover::after {
    right: 0;
 }
-@media (max-width: 430px){
+@media (max-width: 480px){
     header {
         display: none;
     }
