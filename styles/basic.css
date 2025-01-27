@@ -15,7 +15,9 @@
     src: url('fonts/Roboto-Bold.ttf') format('truetype');
   }
 
-
+html {
+  scroll-behavior: smooth;
+}
 
 * {
     box-sizing: border-box;
